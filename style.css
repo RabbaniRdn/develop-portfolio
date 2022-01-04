@@ -28,5 +28,14 @@ section{
     text-decoration: none;
     background-image: linear-gradient(tomato, pink);
     color:white;
-    border-radius: 10px;;
+    border-radius: 100px;;
+}
+.Dream-Big{
+    margin-top: 50px;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.right-dream{
+    margin-right: 100px;
 }
