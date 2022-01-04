@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.top-banner{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size:51px;
+}
+.green-color{
+    color:green;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    margin:20px;
+}
+.half-width img{
+    width:80%;
+    
+}
+.link-button{
+    padding: 10px 20px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, pink);
+    color:white;
+    border-radius: 10px;;
+}
