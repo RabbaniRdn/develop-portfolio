@@ -39,6 +39,29 @@ h1{
 .right-dream{
     margin-right: 100px;
 }
-.dream-box{
-    box-shadow: 3px 4px 4px green;
+.experiences-item{
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-left: 5%;
+    padding-left: 20px;
+}
+.Experiences-image{
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+   
+}
+#full-stack-develop{
+    border-left: 6px solid;
+    border-image:linear-gradient( blue, cyan);
+    border-image-slice:1;
+}
+#web-devvelop{
+    border-left: 6px solid;
+    border-image:linear-gradient( purple, tomato);
+    border-image-slice:1;
+}
+footer p{
+    text-align: center;
+    margin-top: 100px;
 }
