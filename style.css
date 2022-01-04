@@ -12,7 +12,7 @@ h1{
 .green-color{
     color:green;
 }
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -38,4 +38,7 @@ section{
 }
 .right-dream{
     margin-right: 100px;
+}
+.dream-box{
+    box-shadow: 3px 4px 4px green;
 }
