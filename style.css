@@ -17,7 +17,8 @@ h1{
 }
 .half-width{
     width:50%;
-    margin:20px;
+    margin-top:50px;
+    margin-left: 50px;
 }
 .half-width img{
     width:80%;
@@ -64,4 +65,7 @@ h1{
 footer p{
     text-align: center;
     margin-top: 100px;
+}
+.Experiences h1{
+    margin-left: 20px;
 }
